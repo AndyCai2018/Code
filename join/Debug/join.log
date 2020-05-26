@@ -1,0 +1,5 @@
+﻿  join.cpp
+join.cpp(35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  join.vcxproj -> D:\下载\Windows网络与通信程序设计+第3版配套的程序\第5章\join\.\Debug\join.exe
+  join.vcxproj -> .\Debug\join.pdb (Full PDB)
