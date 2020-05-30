@@ -1,0 +1,2 @@
+﻿  helloworld.cpp
+f:\visual stdio\vc\include\wx\setup.h(125): fatal error C1083: 无法打开包括文件: “../../../lib/vc_x64_lib/mswudwx/setup.h”: No such file or directory

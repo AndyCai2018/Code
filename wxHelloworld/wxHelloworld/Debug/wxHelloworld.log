@@ -1,0 +1,103 @@
+﻿  helloworld.cpp
+f:\visual stdio\vc\include\cstring(20): error C2039: “strcat”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(20): error C2873: “strcat”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(20): error C2039: “strcmp”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(20): error C2873: “strcmp”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(21): error C2039: “strcoll”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(21): error C2873: “strcoll”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(21): error C2039: “strcpy”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(21): error C2873: “strcpy”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(21): error C2039: “strcspn”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(21): error C2873: “strcspn”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(22): error C2039: “strerror”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(22): error C2873: “strerror”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(22): error C2039: “strlen”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(22): error C2873: “strlen”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(22): error C2039: “strncat”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(22): error C2873: “strncat”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(23): error C2039: “strncmp”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(23): error C2873: “strncmp”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(23): error C2039: “strncpy”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(23): error C2873: “strncpy”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(23): error C2039: “strpbrk”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(23): error C2873: “strpbrk”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(24): error C2039: “strspn”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(24): error C2873: “strspn”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(25): error C2039: “strtok”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(25): error C2873: “strtok”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\cstring(25): error C2039: “strxfrm”: 不是“`global namespace'”的成员
+f:\visual stdio\vc\include\cstring(25): error C2873: “strxfrm”: 符号不能用在 using 声明中
+f:\visual stdio\vc\include\initializer_list(15): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\initializer_list(59): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\initializer_list(66): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(20): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(44): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(48): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(55): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(61): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(68): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(76): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(84): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(91): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(98): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(104): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(110): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(117): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(123): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(130): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(138): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(144): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(150): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(156): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(162): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(169): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(176): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(182): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(188): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(194): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(200): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(206): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(212): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(218): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(224): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(230): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(237): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(244): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(249): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(255): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(261): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(267): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(274): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(281): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(286): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(294): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(299): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(305): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(311): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xtr1common(325): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(128): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(136): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(143): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(153): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(162): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(174): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(188): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(202): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(216): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(230): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(244): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(249): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(261): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(266): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(278): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(283): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(295): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(300): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(312): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(317): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(358): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(371): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(379): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(385): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(391): error C2894: 模板不能声明为有“C”链接
+f:\visual stdio\vc\include\xstddef(391): fatal error C1003: 错误计数超过 100；正在停止编译

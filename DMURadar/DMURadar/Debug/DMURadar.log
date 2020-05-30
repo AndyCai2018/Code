@@ -1,0 +1,7 @@
+﻿  helloworld.cpp
+h:\code\dmuradar\dmuradar\helloworld.cpp(48): warning C4100: “title”: 未引用的形参
+h:\code\dmuradar\dmuradar\helloworld.cpp(69): warning C4100: “event”: 未引用的形参
+h:\code\dmuradar\dmuradar\helloworld.cpp(73): warning C4100: “event”: 未引用的形参
+h:\code\dmuradar\dmuradar\helloworld.cpp(78): warning C4100: “event”: 未引用的形参
+  DMURadar.vcxproj -> H:\Code\DMURadar\Debug\DMURadar.exe
+  DMURadar.vcxproj -> H:\Code\DMURadar\Debug\DMURadar.pdb (Full PDB)
